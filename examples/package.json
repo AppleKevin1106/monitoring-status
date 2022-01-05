@@ -1,16 +1,9 @@
 {
-  "name": "express-status-monitor-example",
+  "name": "status-monitor-example",
   "version": "0.1.0",
   "description": "Examples",
   "main": "index.js",
-  "author": "Rafal Wilinski raf.wilinski@gmail.com",
-  "contributors": [
-    {
-      "name": "Julien Breux",
-      "email": "julien.breux@gmail.com",
-      "url": "https://github.com/JulienBreux/"
-    }
-  ],
+  "author": "kritical0613",
   "license": "MIT",
   "dependencies": {
     "express": "4.16.4",
@@ -24,6 +17,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RafalWilinski/express-status-monitor/tree/master/examples"
+    "url": "https://github.com/kritical0613/status-monitor/tree/master/examples"
   }
 }
